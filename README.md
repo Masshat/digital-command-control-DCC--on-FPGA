@@ -1,1 +1,1 @@
-# digital-command-control-DCC--on-FPGA
+# implémentation of a digital-command-control-(DCC protocol)-on-FPGA
