@@ -1,5 +1,5 @@
 # implémentation of a digital-command-control-(DCC protocol)-on-FPGA (Xilinx)
-This is the complete implémentation of a DCC centrale on a FPGA(Spartan 6) with VHDL, using of corse ISE and Modelsim :)
+This is the complete implementation of a DCC centrale on a FPGA(Spartan 6) with VHDL, using ISE and Modelsim :)
 
 
 Digital Command Control (DCC) is a standard for a system to operate model railways digitally. When equipped with Digital Command Control, locomotives on the same electrical section of track can be independently controlled.
